@@ -8,17 +8,6 @@ An E-commerce site template, implemented with [Next.js](https://nextjs.org/) and
 
 <p>
 
-![GitHub top language](https://img.shields.io/github/languages/top/texora/online-shop)&nbsp;
-![GitHub last commit](https://img.shields.io/github/last-commit/texora/online-shop)&nbsp;
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/texora/online-shop)&nbsp;
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/texora/online-shop?display_name=tag)&nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/texora/online-shop?color=yellow)&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/texora/online-shop)
-
-</p>
-
-<p>
-
 [Technologies](#technologies) •
 [Demo](#demo) •
 [Features](#features) •
@@ -40,7 +29,7 @@ An E-commerce site template, implemented with [Next.js](https://nextjs.org/) and
 
 
 ## ✨Demo
-You can visit and explore in the ZiShop template at [ZiShop.vercel.app](https://zishop.vercel.app/).
+You can visit and explore in the ZiShop template at [ZiShop-texora.vercel.app](https://zishop-texora.vercel.app/).
 
 ## 🔥Features
 * Using Redux toolkit as state manager
