@@ -8,12 +8,12 @@ An E-commerce site template, implemented with [Next.js](https://nextjs.org/) and
 
 <p>
 
-![GitHub top language](https://img.shields.io/github/languages/top/zahramirzaei/online-shop)&nbsp;
-![GitHub last commit](https://img.shields.io/github/last-commit/zahramirzaei/online-shop)&nbsp;
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/zahramirzaei/online-shop)&nbsp;
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/zahramirzaei/online-shop?display_name=tag)&nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/zahramirzaei/online-shop?color=yellow)&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/zahramirzaei/online-shop)
+![GitHub top language](https://img.shields.io/github/languages/top/texora/online-shop)&nbsp;
+![GitHub last commit](https://img.shields.io/github/last-commit/texora/online-shop)&nbsp;
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/texora/online-shop)&nbsp;
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/texora/online-shop?display_name=tag)&nbsp;
+![GitHub Repo stars](https://img.shields.io/github/stars/texora/online-shop?color=yellow)&nbsp;
+![GitHub forks](https://img.shields.io/github/forks/texora/online-shop)
 
 </p>
 
@@ -67,7 +67,7 @@ You can visit and explore in the ZiShop template at [ZiShop.vercel.app](https://
 
 2. Clone the project
   ```bash
-  git clone https://github.com/ZahraMirzaei/online-shop.git
+  git clone https://github.com/texora/online-shop.git
   ```
 3. Install project dependencies
   ```bash
@@ -116,8 +116,8 @@ Don't forget to give the project a star! Thanks again!
 
 ## 💬Contact Me
   <p>
-    <a href="https://linkedin.com/in/zahramirzaei"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:z.mirzaei2019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/texora"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:ultantaylor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   </p>
   
   <hr/>
